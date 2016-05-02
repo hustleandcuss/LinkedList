@@ -2,8 +2,6 @@ package alda.linear;
 
 /*
  * Olivia Lennerö
- * 911119-5781
- * olivialennero@gmail.com
  */
 
 import java.util.Iterator;
